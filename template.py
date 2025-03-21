@@ -10,6 +10,7 @@ list_of_files = [
     "backend/generate_blog.py",
     "app.py",
     "endpoint.py",
+    "endpoint.py",
     ".env",
     "Dockerfile",
     "requirements.txt",
